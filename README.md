@@ -113,12 +113,6 @@ DATASET_LIST = ['your_dataset']
 LABELING_RATIO = 0.3
 N_EPOCHS = 50
 
-Optional switches:
-
-ENABLE_SCAR = False
-ENABLE_SIC = False
-ENABLE_PIC = True
-
 ------
 
 ### Step 3: Run
